@@ -1,3 +1,9 @@
+#Expense Tracker Application with MERN Stack
+
+![Screenshot 2025-02-17 at 3.39.54 PM.png](attachment:48d56610-47f8-4bae-a258-48e2ab3dd5af:Screenshot_2025-02-17_at_3.39.54_PM.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
