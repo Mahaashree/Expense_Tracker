@@ -1,4 +1,6 @@
-#Expense Tracker Application with MERN Stack
+# Expense Tracker Application with MERN Stack
+
+![Screenshot_2025-02-17_at_3 39 54_PM](https://github.com/user-attachments/assets/cc9a9dd5-eaa2-4734-881a-3bb334b5bed9)
 
 
 # Getting Started with Create React App
