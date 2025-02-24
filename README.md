@@ -23,11 +23,6 @@ An intuitive expense tracking application built using the **MERN (MongoDB, Expre
 - **State Management**: Redux (optional)  
 - **Authentication**: JWT (if implemented)  
 
-## 📸 Screenshots
-
-| Dashboard | Features Overview |
-|-----------|------------------|
-| ![Dashboard](./screenshots/dashboard.png) | ![Features](./screenshots/features.png) |
 
 ## 🏗️ Installation & Setup
 
